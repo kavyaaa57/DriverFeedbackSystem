@@ -10,7 +10,6 @@
 {"speed": 14.0370512008667, "accelerometer": {"x": 0.080078125, "y": -0.037109375, "z": 1.00341796875, "timestamp": 93982.406736}, "location": {"latitude": 10.9481105, "longitude": 76.9695261}}
 {"speed": 14.0370512008667, "accelerometer": {"x": 0.07763671875, "y": -0.03759765625, "z": 1.00341796875, "timestamp": 93985.436745}, "location": {"latitude": 10.9481105, "longitude": 76.9695261}}
 {"speed": 8.497163486480714, "accelerometer": {"x": 0.08203125, "y": -0.03857421875, "z": 1.00341796875, "timestamp": 93987.456761}, "location": {"latitude": 10.9481281, "longitude": 76.9695811}}
-{"speed": 4.462920713424682, "accelerometer": {"x": -0.056640625, "y": 0.7080078125, "z": 0.69677734375, "timestamp": 93995.656726}, "location": {"latitude": 10.9481283, "longitude": 76.9695817}}
 {"speed": 1.8668479442596435, "accelerometer": {"x": -0.0732421875, "y": 0.70751953125, "z": 0.6982421875, "timestamp": 93997.677161}, "location": {"latitude": 10.9481213, "longitude": 76.9695597}}
 {"speed": 1.8668479442596435, "accelerometer": {"x": -0.07568359375, "y": 0.70458984375, "z": 0.7138671875, "timestamp": 94000.70675}, "location": {"latitude": 10.9481213, "longitude": 76.9695597}}
 {"speed": 1.890064287185669, "accelerometer": {"x": -0.08984375, "y": 0.6884765625, "z": 0.76708984375, "timestamp": 94002.726726}, "location": {"latitude": 10.9480885, "longitude": 76.9694587}}
